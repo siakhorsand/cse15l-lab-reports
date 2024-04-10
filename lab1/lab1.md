@@ -81,6 +81,7 @@ Before the above command is run, the absolute file path is
 
 ![cat_noArg](cat_noArg.png)
 - Here is an example of using *cat* with a path to a directory:
+
 `cat /Users/siakhorsand/Documents`
 
 Before the above command is run, the absolute file path is 
