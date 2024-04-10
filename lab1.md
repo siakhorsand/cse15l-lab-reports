@@ -3,7 +3,7 @@
 ## *cd* 
 - Here is an example of using *cd* with *no* arguments:
   
-  `cd`
+`cd`
 
   This command simply takes the user to the home directory.
 ![cd_noArg](cd_noArg.png)
@@ -35,10 +35,16 @@ This command simply shows the contents of the current directory.
 
 - Here is an example of using *ls* with a path to a directory:
 
+`ls /Users/siakhorsand/Documents/`
+
+
 This argument simply shows the contents of the directory to which the terminal has traveled. 
 
 ![ls_Direct](ls_Direct.png)
 
 - Here is an example of using *ls* with a path to a file in a directory:
 
+`ls /Users/siakhorsand/Documents/text.txt`
+
+This argument takes the terminal to the path of the file, if the file exists. 
 ![ls_file](ls_file.png)
