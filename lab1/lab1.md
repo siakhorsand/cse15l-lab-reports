@@ -1,6 +1,8 @@
 # Lab Report #1
 
 ## *cd* - change directory 
+
+
 - Here is an example of using *cd* with *no* arguments:
   
 `cd`
