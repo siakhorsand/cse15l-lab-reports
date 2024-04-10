@@ -33,11 +33,12 @@ This command simply shows the contents of the current directory.
 
 ![ls_noArg](ls_noArg.png)
 
-- Here is an example of using *ls with a path to a directory:
+- Here is an example of using *ls* with a path to a directory:
 
 This argument simply shows the contents of the directory to which the terminal has traveled. 
 
 ![ls_Direct](ls_Direct.png)
 
+- Here is an example of using *ls* with a path to a file in a directory:
 
-
+![ls_file](ls_file.png)
