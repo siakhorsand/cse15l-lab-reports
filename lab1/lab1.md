@@ -29,7 +29,7 @@ This command takes the terminal to the cs11 folder (*ls* and *pwd* are then used
 Before the above command is run, the absolute file path is 
   `/Users/siakhorsand/`
 
-As you can see in the image below, *cd* does *not* work with a path to a file because it does not open files or show contents. However, it can navigate to the folder in which the file is in. 
+As you can see in the image below, *cd* does *not* work and causes an error. That is because *cd* solely changes directories/folders and does not open files or show their contents. 
 ![cd_file](cd_file.png)
 
 
@@ -87,7 +87,7 @@ Before the above command is run, the absolute file path is
 Before the above command is run, the absolute file path is 
   `/Users/siakhorsand/`
   
-This argument states that the Documents folder is a directory and not a file. This is an error message. 
+The Documents folder is a directory and not a file. Therefore, cat does not perform its function and produces this error message. 
 ![cat_Direct](cat_Direct.png)
 
 - Here is an example of using *cat* with a path to a file:
