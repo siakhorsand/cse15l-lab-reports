@@ -150,10 +150,10 @@ recursively checks and lists all files *technical* that containt "white".
 
 1. 
 `grep -l "method" technical/*`
-lists all files in technical that include " method". 
+lists all files in technical that include " method".
+
 2.
-   `grep -l "example" technical/biomed/*
-`
+   `grep -l "example" technical/biomed/*`
 lists all files that include "example" wihtin technical/biomed/.
 
 ### Example 3: `-v` (Lists all lines that #EXCLUDE# desired text):
