@@ -37,10 +37,10 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
 
 ### Keys Pressed:
 
-- ```
+ ```
   cd lab7
   bash test.sh
-
+ ```
 ### Accomplished:
 
 - Changed directory to lab7, ran the tests in the repository, and demonstrated that they fail.
