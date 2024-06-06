@@ -2,6 +2,8 @@
 
 **by Sia Khorsand**
 
+In this lab report, I will go through the steps of lab7 and demonstrate what keys were pressed for each step of the way and what they accomplished.
+
 
 ## Section 1
 
@@ -56,7 +58,9 @@
   cw
   "index2 "
   <esc>
-  /index1
+  n
+  n
+  n
   n
   n
   cw
@@ -92,6 +96,7 @@
   git commit - "debugged for lab report 4!!
   git push
   ```
+
   
 
 ### Accomplished:
