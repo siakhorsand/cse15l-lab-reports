@@ -2,74 +2,98 @@
 
 **by Sia Khorsand**
 
-## Section 4
+
+## Section 1
 
 ![Section 4 Image](4.png)
 
 ### Keys Pressed:
 
-- Insert your keys pressed details here.
+- ```ssh skhorsand@ieng6.ucsd.edu <enter>```
 
 ### Accomplished:
 
-- Insert what you accomplished here.
+- Successfully ssh'd into my ieng6 account. 
 
-## Section 5
+## Section 2
 
 ![Section 5 Image](5.png)
 
 ### Keys Pressed:
 
-- Insert your keys pressed details here.
+- ```git clone git@github.com:ucsd-cse151-s24/lab7.git <enter>``` 
 
 ### Accomplished:
 
-- Insert what you accomplished here.
+- Cloned my fork of the repository from the github `ssh` link
 
-## Section 6
+## Section 3
 
 ![Section 6 Image](6.png)
 
 ### Keys Pressed:
 
-- Insert your keys pressed details here.
+- ```
+  cd lab7
+  bash test.sh
 
 ### Accomplished:
 
-- Insert what you accomplished here.
-
-## Section 7
+- Changed directory to lab7, ran the tests, and demonstrated that they fail. 
+## Section 4
 
 ![Section 7 Image](7.png)
 
 ### Keys Pressed:
 
-- Insert your keys pressed details here.
+- ```
+  vim ListExamples.java
+  /index1
+  n
+  n
+  n
+  n
+  cw
+  "index2 "
+  <esc>
+  /index1
+  n
+  n
+  cw
+  "index2"
+  <esc>
+  ":wq"
+  
 
 ### Accomplished:
 
-- Insert what you accomplished here.
+- Edited the code to fix the bugs. Using `/` to search for "index1" and cw to remove the word to replace with "index2". And finally, saving the changes using `":wq"`
 
-## Section 8
+## Section 5
 
 ![Section 8 Image](8.png)
 
 ### Keys Pressed:
 
-- Insert your keys pressed details here.
+- `bash test.sh`
 
 ### Accomplished:
 
-- Insert what you accomplished here.
+- Ran the tests and demonstrated that the tests pass. 
 
-## Section 9
+## Section 6
 
 ![Section 9 Image](9.png)
 
 ### Keys Pressed:
 
-- Insert your keys pressed details here.
+- ```
+  git add .
+  git commit - "debugged for lab report 4!!
+  git push
+  ```
+  
 
 ### Accomplished:
 
-- Insert what you accomplished here.
+- Commited and pushed the changes to my fork. 
