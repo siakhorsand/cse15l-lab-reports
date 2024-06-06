@@ -4,6 +4,8 @@
 
 ## Part 1 – Debugging Scenario
 
+The scenario I will use in this lab report is similar to ones we have dealt with in the second half of this quarter, but are effective and essential to getting some practice with debugging.  
+
 ### Original Post
 
 **Student Post:**
@@ -32,7 +34,7 @@ Here is a screenshot of the output:
 Here is a screenshot of the tests: 
 ![Original test Screenshot](test.png)
 
-Bash script: 
+Test bash script: 
 ```
 #!/bin/bash
 
@@ -71,11 +73,11 @@ message:
 > I was adding elements at the beginning (result.add(0, s)) instead of the end. I changed it to result.add(s), and that fixed the testFilter issue.
 
 > For the testMerge1 and testMerge2 methods, you were right about the while loop.
->  I had an incorrect index update within the else block.
-> I fixed the index update to ensure it increments correctly, and now the tests run within the time limit.
+>  I had an incorrect index update within the else block. 
+> I fixed the index update to ensure it increments correctly, incrementing index2 instead of index1 in the else statements, and adding `+` before the `=` in the first else statement to correctly increment and fix the typo. Previoiusly, the else statement was simply reassigning 1 to index2 instead of incrementing it, and the second else statement incremented index1 instead of index2. 
+> now the tests run within the time limit and produce the correct output. 
 
 
-message: 
+## Part 2 - Reflection
 
-**Setup Information:**
-- **File & Directory Structure:**
+>Something I learned during the second half of the labs in this class was using the java debugger and jdb. I believe it was during lab 8 or 9 that we used jdb to track down exactly what are the symptoms and bugs in a certain java class/method. Especially while studying for the 4th skill demo, I got practice with stopping the compute at a certain line and checking the values of different local variables at that point in the code. I can imagine that this method is extremely useful in terms of finding and fixing bugs in real professional settings in the tech industry. All in all, although my schedule was packed this quarter and I wasn't able to keep up as fast and as well as I would have hoped, I thoroughly enjoyed this class and the skills I gained from it, specifically the practice I got with debugging java files and getting comfortable with the different tools and packages in the terminal. These are skills that I will definitely practice on my own and apply in my journey with computer science.  
