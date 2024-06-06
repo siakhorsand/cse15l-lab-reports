@@ -23,7 +23,9 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
 
 ### Keys Pressed:
 
-- ```git clone git@github.com:ucsd-cse151-s24/lab7.git <enter>``` 
+- ```
+  git clone git@github.com:ucsd-cse151-s24/lab7.git <enter>
+  ``` 
 
 ### Accomplished:
 
@@ -59,6 +61,7 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
   n
   cw
   "index2 "
+  
   <esc>
   n
   n
@@ -69,8 +72,7 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
   "index2"
   <esc>
   ":wq"
-  
-
+  ```
 ### Accomplished:
 
 - Edited the code to fix the bugs. Using `/` to search for "index1" and `cw` to remove the word to be able to replace with "index2". And finally, saving the changes using `":wq"`
