@@ -52,7 +52,7 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
 
 ### Keys Pressed:
 
-- ```
+```
   vim ListExamples.java
   /index1
   n
@@ -60,8 +60,7 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
   n
   n
   cw
-  "index2 "
-  
+  "index2 " 
   <esc>
   n
   n
@@ -72,7 +71,7 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
   "index2"
   <esc>
   ":wq"
-  ```
+```
 ### Accomplished:
 
 - Edited the code to fix the bugs. Using `/` to search for "index1" and `cw` to remove the word to be able to replace with "index2". And finally, saving the changes using `":wq"`
