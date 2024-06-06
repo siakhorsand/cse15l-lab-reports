@@ -41,7 +41,9 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
 
 ### Accomplished:
 
-- Changed directory to lab7, ran the tests, and demonstrated that they fail. 
+- Changed directory to lab7, ran the tests in the repository, and demonstrated that they fail.
+
+  
 ## Section 4
 
 ![Section 7 Image](7.png)
@@ -71,7 +73,7 @@ In this lab report, I will go through the steps of lab7 and demonstrate what key
 
 ### Accomplished:
 
-- Edited the code to fix the bugs. Using `/` to search for "index1" and cw to remove the word to replace with "index2". And finally, saving the changes using `":wq"`
+- Edited the code to fix the bugs. Using `/` to search for "index1" and `cw` to remove the word to be able to replace with "index2". And finally, saving the changes using `":wq"`
 
 ## Section 5
 
