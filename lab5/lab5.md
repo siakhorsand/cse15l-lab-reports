@@ -50,7 +50,6 @@ fi
 ```
 ### TA Response
 
-**TA Response:**
 message: 
 > Hi Sia,
 > Let's start by looking at the filter method. You could maybe check what is assigned to `result` and trace your logic problem from there. You might want to look at the number before the comma, and whether it is necessary.
@@ -63,7 +62,6 @@ message:
 
 ### Student Follow-Up
 
-**Student Follow-Up:**
 ![Follow-Up Screenshot](followup.png)
 
 message: 
